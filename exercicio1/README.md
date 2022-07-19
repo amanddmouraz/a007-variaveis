@@ -17,7 +17,7 @@ Construa um programa, seguindo os seguintes passos:
 
 **f)** Novamente, imprima na tela o tipo dessas variáveis. O que você notou? Escreva em um comentário de código.
 
-**g)** Para finalizar, imprima na tela a mensagem: "Olá `nome`,  você tem `idade` anos". Onde `nome` e `idade` são os valores que o usuário inseriu
+**g)** Para finalizar, imprima na tela a mensagem: "Olá `nome`,  você tem `idade` anos". Onde `nome` e `idade` são os valores que o usuário inseriuc
 
 >💡  Dica: para imprimir mais de um valor na mesma linha, você pode usar essa sintaxe:
 ```jsx
